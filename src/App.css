@@ -1,0 +1,21 @@
+.App {
+  width: 800px;
+  margin: auto;
+  padding: 1em;
+}
+
+table {
+  width: 100%;
+}
+
+input {
+  font-size: large;
+  padding: 0.2em;
+  width: 100%;
+}
+
+select {
+  width: 50%;
+  font-size: medium;
+  margin: 10px 0;
+}
